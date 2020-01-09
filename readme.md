@@ -38,4 +38,4 @@ Now, going to the project folder and writing npm run publish in the console, you
 
 ## Important
 
-If you deploy the project for the first time, after the script runs, you need to go to the settings on github, find there GitHub Pages and specify as source your master branch
+If you are deploying the project for the first time, after the script has completed, you need to go to the settings on github, find GitHub Pages there and specify your main branch as the source
