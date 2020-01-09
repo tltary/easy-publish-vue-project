@@ -35,6 +35,8 @@ Next go to the package.json file and add the following line in scripts
 
 Now, going to the project folder and writing npm run publish in the console, your project will be loaded into the repository you specified, you can go to github pages and see the result
 
+If you need, see package.example.json and deploy.example.sh
+
 
 ## Important
 
