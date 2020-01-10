@@ -4,6 +4,18 @@ To get started, create the repository you need on github
 
 Next create a Vue project
 
+If you have not created the vue.config.js file, create it and put the following in it
+
+```js
+
+module.exports = {
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/my-project/'
+    : '/'
+}
+
+```
+
 Then create the deploy.sh file in the root of the project
 
 ```sh
