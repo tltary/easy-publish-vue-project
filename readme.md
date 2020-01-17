@@ -4,7 +4,9 @@ To get started, create the repository you need on github
 
 Next create a Vue project
 
-If you have not created the vue.config.js file, create it and put the following in it
+### If you deploy on custom domain then skip create/edit vue.config.js step
+
+Create/edit the vue.config.js file, create it and put the following in it
 
 ```js
 
